@@ -26,13 +26,19 @@ Quản Lý Phiên Bản: Quen thuộc với Git để phát triển hợp tác.
 
 ⚡️ Thông tin thú vị: Tôi đã từng leo một con đường có trò chơi săn tìm theo chủ đề giày—thật tuyệt vời khi kết hợp sở thích của mình!
 
-# Features
-Light/dark mode toggle
-Live previews
-Fullscreen mode
+# Chức năng
+
+## Tài khoản(đăng ký, đăng nhập)
+![image](https://github.com/user-attachments/assets/8ecd5385-177a-4653-a2dd-4c8a483fd55a)
+
+## Xem trang chủ
 ![image](https://github.com/user-attachments/assets/01625659-6916-4217-bfab-bf2ba03d28d0)
 
-Cross platform
+## Xem sản phẩm
+![image](https://github.com/user-attachments/assets/e2196ba1-3cfb-482c-b37c-4a35b886dfdf)
+
+## Giỏ hàng
+![image](https://github.com/user-attachments/assets/5bda5349-c578-4832-ba60-1ddc23d8cf59)
 
 # Hỗ Trợ
 Để được hỗ trợ, vui lòng gửi email đến https://beclassy.vn/ hoặc tham gia kênh Slack của chúng tôi.
