@@ -20,7 +20,7 @@ Quản Lý Phiên Bản: Quen thuộc với Git để phát triển hợp tác.
 
 💬 Hãy hỏi tôi về các phương pháp tốt nhất trong phát triển web hoặc cách cải thiện sự tương tác của người dùng trên các trang thương mại điện tử.
 
-📫 Cách liên hệ với tôi: Bạn có thể liên hệ qua email tại fake@fake.com hoặc kết nối với tôi trên LinkedIn.
+📫 Cách liên hệ với tôi: Bạn có thể liên hệ qua email tại (https://beclassy.vn/) hoặc kết nối với tôi trên LinkedIn.
 
 😄 Đại từ: Anh/Em
 
